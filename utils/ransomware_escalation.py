@@ -245,7 +245,7 @@ def render_escalation_panel(df_raw: pd.DataFrame) -> None:
 
     # ── Section header ────────────────────────────────────────────────────────
     st.markdown(
-        "<div class='section-header'>🚦 Traffic Light Escalation · Malaysia Ransomware</div>",
+        "<div class='section-header'>🚦 Incidents Escalation · Malaysia Ransomware</div>",
         unsafe_allow_html=True,
     )
     st.markdown(
